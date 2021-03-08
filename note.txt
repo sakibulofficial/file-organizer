@@ -1,0 +1,16 @@
+
+desktop path : C:\Users\mdsak\Desktop
+
+
+Documents : C:\Users\mdsak\Desktop\Documents
+'.txt', '.doc','.docx', '.odt','.xlsx','.pptx'
+
+
+Images : C:\Users\mdsak\Desktop\Images
+'.jpg', '.png', '.JPG','.gif','.ico','.jpeg'
+
+
+Compressed files : C:\Users\mdsak\Desktop\Compressed files
+'.zip','.z','.tar.gz','.rpm','.rar','.pkg','.deb','.7z','.arj'
+
+Others : C:\Users\mdsak\Desktop\Others
